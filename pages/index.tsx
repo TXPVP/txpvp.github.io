@@ -20,7 +20,7 @@ export default function Home() {
         <meta name="twitter:title" content="TX-PVP"/>
         <meta name="twitter:description" content="Learn more about TX-PVP, it's developers and more!"/>
         <meta name="twitter:image" content="https://avatars.githubusercontent.com/u/81171469"/>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.ico?v=2" />
       </Head>
 
       <main>
