@@ -8,7 +8,7 @@ export default function About() {
         <div className="flex flex-wrap -mx-4">
             <div className="w-full px-4">
                 <div className="text-center mx-auto mb-12 lg:mb-20 max-w-[510px]">
-                <span className="font-semibold text-lg text-primary mb-2 block">
+                <span className="font-semibold text-lg text-yellow-400 mb-2 block">
                 Our Services
                 </span>
                 <h2 className=" font-bold text-3xl sm:text-4xl md:text-[40px] text-dark mb-4 " >
@@ -31,9 +31,9 @@ export default function About() {
                             />
                     </svg>
                 </div>
-                <h4 className="font-semibold text-xl text-dark mb-3">
+                <h3 className="font-semibold text-xl text-dark mb-3">
                     Refreshing Design
-                </h4>
+                </h3>
                 <p className="text-body-color">
                     We offer a clean and efficient user interface for your server to ensure your players have a great experience.
                 </p>
@@ -69,9 +69,9 @@ export default function About() {
 
 
                 </div>
-                <h4 className="font-semibold text-xl text-dark mb-3">
+                <h3 className="font-semibold text-xl text-dark mb-3">
                     Security
-                </h4>
+                </h3>
                 <p className="text-body-color">
                     TX-PVP is written with security in mind and trys to be as server sided as possible to prevent cheaters.
                 </p>
@@ -96,9 +96,9 @@ export default function About() {
         />
                     </svg>
                 </div>
-                <h4 className="font-semibold text-xl text-dark mb-3">
+                <h3 className="font-semibold text-xl text-dark mb-3">
                     Easy To Use
-                </h4>
+                </h3>
                 <p className="text-body-color">
                     TX-PVP is a drag and drop resource that works out of the box with some configuration.
                 </p>
@@ -126,9 +126,9 @@ export default function About() {
                             />
                     </svg>
                 </div>
-                <h4 className="font-semibold text-xl text-dark mb-3">
+                <h3 className="font-semibold text-xl text-dark mb-3">
                     Speed Optimized
-                </h4>
+                </h3>
                 <p className="text-body-color">
                     Every single line of code is written with performance and secruity in mind.
                 </p>
@@ -182,9 +182,9 @@ export default function About() {
             fill="white"/>
                     </svg>
                 </div>
-                <h4 className="font-semibold text-xl text-dark mb-3">
+                <h3 className="font-semibold text-xl text-dark mb-3">
                     Fully Customizable
-                </h4>
+                </h3>
                 <p className="text-body-color">
                     TX-PVP is very easy to customize and fine tune to your liking due to the code being very easy to understand.
                 </p>
@@ -204,9 +204,9 @@ export default function About() {
                             />
                     </svg>
                 </div>
-                <h4 className="font-semibold text-xl text-dark mb-3">
+                <h3 className="font-semibold text-xl text-dark mb-3">
                     Regular Updates
-                </h4>
+                </h3>
                 <p className="text-body-color">
                     We aim to release atleast 1 update a month, we hope to raise this once our team grows.
                 </p>
