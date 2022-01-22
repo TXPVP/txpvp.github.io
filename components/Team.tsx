@@ -9,7 +9,7 @@ export default function Team() {
     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6">
         <div className="w-full bg-primary bg-opacity-60 rounded-lg p-12 flex flex-col justify-center items-center">
             <div className="mb-8">
-                <img width="144" height="144" className="object-center object-cover rounded-full h-36 w-36" src="https://avatars.githubusercontent.com/u/25370292" alt="photo"/>
+                <img width="144" height="144" className="object-center object-cover rounded-full h-36 w-36" src="https://i.file.glass/XdLscZKk5v.webp" alt="wow jesus profile picture"/>
             </div>
             <div className="text-center">
                 <a href="https://github.com/wowjeeez" className="text-xl hover:underline text-gray-100 font-bold mb-2">WowJeeez</a>
@@ -18,7 +18,7 @@ export default function Team() {
         </div>
         <div className="w-full bg-primary bg-opacity-60 rounded-lg p-12 flex flex-col justify-center items-center">
             <div className="mb-8">
-                <img width="144" height="144" className="object-center object-cover rounded-full h-36 w-36" src="https://avatars.githubusercontent.com/u/64610533" alt="photo"/>
+                <img width="144" height="144" className="object-center object-cover rounded-full h-36 w-36" src="https://i.file.glass/NiII1q8l0a.webp" alt="hamy-os profile picture"/>
             </div>
             <div className="text-center">
                 <a href="https://github.com/Hamy-os" className="text-xl text-gray-100 font-bold mb-2">Hamy-os</a>
@@ -27,7 +27,7 @@ export default function Team() {
         </div>
         <div className="w-full bg-primary bg-opacity-60 rounded-lg p-12 flex flex-col justify-center items-center">
             <div className="mb-8">
-                <img width="144" height="144" className="object-center object-cover rounded-full h-36 w-36" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Question-mark-face.jpg" alt="photo"/>
+                <img width="144" height="144" className="object-center object-cover rounded-full h-36 w-36" src="https://i.file.glass/7VS9cW7Kha.webp" alt="future developer"/>
             </div>
             <div className="text-center">
                 <p className="text-xl text-gray-100 font-bold mb-2">We are looking for new developers!</p>
